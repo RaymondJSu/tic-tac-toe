@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+And it is for React JS practice purpose.
+
+## Demo
+[demo pic](./demo.PNG)
 
 ## Available Scripts
 
