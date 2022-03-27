@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 And it is for React JS practice purpose.
 
 ## Demo
-[demo pic](./demo.PNG)
+![demo pic](./demo.PNG)
 
 ## Available Scripts
 
